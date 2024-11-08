@@ -7,7 +7,8 @@ Self-Taught Data Analyst
 I'm a fresh graduate Digital Media and Cinematic Arts student, who is passionate about Data Analytics. I studied Data Analysis from online courses (Coursera, LinkedIn Learning, DataRockie). I'm currently looking for Junior Data Analyst position.
 
 *   🌍  I'm based in Bangkok, Thailand
-*   ✉️  You can contact me at [rachata.sumranpol@gmail.com](mailto:rachata.sumranpol@gmail.com)### Skills 
+*   ✉️  You can contact me at [rachata.sumranpol@gmail.com](mailto:rachata.sumranpol@gmail.com)
+*   ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                     </p>
